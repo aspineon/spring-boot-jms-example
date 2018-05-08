@@ -1,0 +1,5 @@
+
+# queues declaration.
+queues:
+  sample: sample
+  monitor: monitor
